@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: wangzi
+Build-Jdk: 1.8.0_151
+Main-Class: LearnJarFile.JarFile.App
+Created-By: Maven Integration for Eclipse
+
